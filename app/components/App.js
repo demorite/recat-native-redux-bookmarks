@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import {Text, View, StatusBar} from "react-native";
 import {connect} from "react-redux";
 import Home from '../routes/home/home'
-import Login from '../routes/auth/login '
+import Login from '../routes/auth/login'
 
 const propTypes = {};
 
